@@ -1,0 +1,6 @@
+# Added for this package; derived from supplied script imports.
+# Python 3.10+; ffmpeg and ffprobe must be installed separately.
+# Versions are intentionally unpinned; cross-version compatibility is not verified.
+Pillow
+python-docx
+PyMuPDF
